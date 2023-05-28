@@ -1,9 +1,12 @@
--- Generated with DurtyClothTool --
+--- Generated with DurtyClothTool ---
+--- Created By TayMcKenzieNZ ---
 
 fx_version 'cerulean'
 game { 'gta5' }
-author 'TayMcKenzieNZ'
-description 'Lore Friendly Clothing Pack By TayMcKenzieNZ'
+name "taysbusinesspack"
+description "Lore Friendly Clothing By TayMcKenzieNZ"
+author "TayMcKenzieNZ"
+version "1.2.0"
 
 files {
   'mp_m_freemode_01_mp_m_taysbusinesspack.meta',
