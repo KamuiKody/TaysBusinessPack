@@ -9,7 +9,7 @@
 </p>
 
 
-# You must be a Patron of the $US15 tier or higher, if not, visit the [Patreon page](https://www.patreon.com/fivem). Prices may change at any given date and is out of my control.
+# To stream this pack on FiveM, you must be a Patron of the $US15 tier or higher, if not, visit the [Patreon page](https://www.patreon.com/fivem). Prices may change at any given date and is out of my control.
 
 *Alternatively, you can set your player count to 10*
 
@@ -18,9 +18,9 @@
 
 Attention all GTA 5 roleplayers! 
 
-Are you tired of wearing the same old boring clothes in the game? Well, we've got the solution for you! 
+Are you tired of wearing the same old boring clothes? Want to represent your place of business?Well, we've got the solution for you! 
 
-Introducing the ultimate clothing pack for all your virtual fashion needs!
+Introducing the Business CPlothing ack for all your virtual fashion needs!
 
 Get ready to turn heads with our high-quality fabrics and stylish designs. Whether you're running errands for your virtual boss or spiking burgers with crack cocaine, you'll be sure to make a statement.
 
@@ -65,7 +65,7 @@ This is a project I slapped together with the help of [DurtyFree's](https://gith
 
 # Disclaimer ⚠️
 
-This clothing pack was tested on gamebuild mpchristmas3 aka 2802 using the popular script, vMenu, with the understanding that there are *about* 14 additional free .ymt slots to be used
+This clothing pack was tested on gamebuild mpchristmas3 aka 2802 using the popular script, vMenu, with the understanding that there are *about* 14 additional free .ymt slots to be used on this particular gamebuild.
 
 This pack currently uses 4 YMT's; male, female, and pedalternatevariations which is responsible for things such as hiding or removing hair for hats, making high heels work correctly and making sure that heist bags etc are visible on add-on clothing many other things. In my case, I have used it to squash **default gta online** hairstyles when hoodies are worn up.
 
@@ -75,7 +75,7 @@ Custom hairs lack this option due to the bones missing. Most custom hairs are ju
 If for whatever reason you crash using this pack, please read here and perhaps consider downgrading your gamebuild until Rockstar Games increases the [YMT limits](https://tinyurl.com/499ad2zn) on/for future DLCs.
 
 
-See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-gamebuild-to-casino-cayo-perico-tuners-future-dlcs/4784977)
+See my FiveM tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-gamebuild-to-casino-cayo-perico-tuners-future-dlcs/4784977)
 
 ## Clothing Texture Issues:
 
@@ -110,7 +110,11 @@ Q - Merryweather Security
 R - Fleeca Bank
 S - Gruppe6 Security
 T - Los Santos Customs
-U - SECURITY
+U - Benny's Original Motorworks
+V - The Taco Farmer
+W -Yellow Jack Inn
+X - SECURITY 
+
 ```
 
 ---------------------------------------
@@ -119,6 +123,12 @@ U - SECURITY
 ```
 A - Cluckin Bell
 ```
+
+---------------------------------------
+
+# Mechanic Overall Shirts
+- Los Santos Customs (3 variants)
+- Benny's (3 variants)
 
 ---------------------------------------
 
@@ -143,7 +153,9 @@ O - Merryweather Security
 P - Fleeca Bank
 Q - Gruppe6 Security
 R - Los Santos Customs
-S - SECURITY
+S - Benny's Original Motor works 
+T - Taco Farmer 
+U - SECURITY
 ```
 
 ---------------------------------------
@@ -154,6 +166,13 @@ S - SECURITY
 A - Black
 B - Yellow Cluckin Bell
 ```
+
+---------------------------------------
+
+# Mechanic Overall Pants
+
+- Los Santos Customs (3 variants)
+- Benny's (3 Variants)
 
 ---------------------------------------
 
