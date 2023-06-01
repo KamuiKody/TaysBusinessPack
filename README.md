@@ -90,30 +90,31 @@ Read this for more details: [FiveM GitHub Issue #1911](https://github.com/citize
 ## MALE & FEMALE SHIRT 1, MULTIPLE TEXTURE VARIANTS:
 
 ```
-A - Burger Shot Employee
-B - Burger Shot Manager
-C - Bean Machine
-D - Uwu Cafe Employee
-E - UwU Cafe Manager
-F - Vanilla Unicorn
-G - Downtown Cab Co Taxi Service
-H - Chihuahua Hot Dogs
-I - Taco Bomb
-J - Horny's
-K - Lucky Pluckers Red
-L - Lucky Pluckers Black
-M - Smoke On The Water
-N - Up N Atom
-O - 24 / 7
-P - LTD
-Q - Merryweather Security
-R - Fleeca Bank
-S - Gruppe6 Security
-T - Los Santos Customs
-U - Benny's Original Motorworks
-V - The Taco Farmer
-W -Yellow Jack Inn
-X - SECURITY 
+Burger Shot Employee Red
+Burger Shot Manager Black
+Bean Machine
+UwU Cafe Employee Pink
+UwU Cafe Manager Black
+Chihuahua Hot Dogs
+Taco Bomb
+Horny's
+Lucky Plucker Employee Red
+Lucky Plucker Manager Black
+Up N Atom
+Pizza This
+The Taco Farmer
+24 / 7
+LTD
+Downtown Taxi Co
+Smoke On The Water
+Yellow Jack Inn
+Vanilla Unicorn
+Los Santos Customs
+Benny's Original Motorwork
+Merryweather Security
+FLEECA Bank
+Gruppe 6 Security
+SECURITY
 
 ```
 
@@ -135,27 +136,28 @@ A - Cluckin Bell
 
 ### WORK HAT - Male And Female Front Facing And Backwards Variants:
 ```
-A - Burger Shot Employee
-B - Burger Shot Manager
-C - Cluckin Bell 
-D - Bean Machine
-E - UwU Cafe Employee
-F - UwU Cafe Manager
-G - Chihuahua Hot Dogs
-H - Taco Bomb
-I - Horny's
-J - Lucky Plucker - Red
-K - Lucky Plucker - Black
-L - UP N Atom 
-M - 24 / 7
-N - LTD
-O - Merryweather Security
-P - Fleeca Bank
-Q - Gruppe6 Security
-R - Los Santos Customs
-S - Benny's Original Motor works 
-T - Taco Farmer 
-U - SECURITY
+Burger Shot Employee Red
+Burger Shot Manager Black
+Cluckin Bell
+Bean Machine
+UwU Cafe Employee Pink
+UwU Cafe Manager Black
+Chihuahua Hot Dogs
+Taco Bomb
+Horny's
+Lucky Plucker Employee Red
+Lucky Plucker Manager Black
+Up N Atom
+Pizza This
+The Taco Farmer
+24 / 7
+LTD
+Los Santos Customs
+Benny's Original Motorwork
+Merryweather Security
+FLEECA Bank
+Gruppe 6 Security
+SECURITY
 ```
 
 ---------------------------------------
