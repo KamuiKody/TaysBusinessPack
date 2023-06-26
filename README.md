@@ -221,7 +221,7 @@ Start your server and connect to it
 
 ## FiveM
 
-- Download vMenu and put it in your server/resources folder [vMenu]( https://github.com/TomGrobbe/vMenu/releases)
+- Download the updated vMenu and put it in your server/resources folder [vMenu](https://github.com/ProjectFairnessLabs/PF-vMenu/releases)
 
 - Open the FILES folder and drag the taysbusinesspack inside the FIVEM folder, into your FiveM resources
 
