@@ -38,6 +38,7 @@ So what are you waiting for? Upgrade your virtual wardrobe today and become the 
 
 | | | |
 |-|-|-|
+| <img src="FILES/SCREENSHOTS/WN006.png" width="500">  | <img src="FILES/SCREENSHOTS/WN013.png" width="500"> | <img src="FILES/SCREENSHOTS/WN003.png" width="500">  |
 | <img src="FILES/SCREENSHOTS/Burger Shot.jpeg" width="500"> | <img src="FILES/SCREENSHOTS/Burger Shot 2.jpeg" width="500"> | <img src="FILES/SCREENSHOTS/Bean.png" width="500"> |
 | <img src="FILES/SCREENSHOTS/Bean2.png" width="500">  | <img src="FILES/SCREENSHOTS/UwU2.jpeg" width="500"> | <img src="FILES/SCREENSHOTS/UwU2.jpeg" width="500"> |
 | <img src="FILES/SCREENSHOTS/UwU3.jpeg" width="500">  | <img src="FILES/SCREENSHOTS/UwU4.jpeg" width="500"> | <img src="FILES/SCREENSHOTS/Vanilla.png" width="500"> |
@@ -50,7 +51,6 @@ So what are you waiting for? Upgrade your virtual wardrobe today and become the 
 | <img src="FILES/SCREENSHOTS/LTD1.png" width="500">  | <img src="FILES/SCREENSHOTS/LTD2.png" width="500"> | <img src="FILES/SCREENSHOTS/Merryweather.png" width="500"> |
 | <img src="FILES/SCREENSHOTS/Fleeca.png" width="500">  | <img src="FILES/SCREENSHOTS/Gruppe6.png" width="500"> | <img src="FILES/SCREENSHOTS/Gruppe62.png" width="500"> |
 | <img src="FILES/SCREENSHOTS/LSC.png" width="500">  | <img src="FILES/SCREENSHOTS/LSC2.png" width="500"> | <img src="FILES/SCREENSHOTS/Security1.png" width="500"> |
-|  | <img src="FILES/SCREENSHOTS/Security2.png" width="500"> |  |
 
 
 
