@@ -2,6 +2,8 @@
 
 <h2 align="center">Lore friendly uniforms for AltV, FiveM &amp; Single Player 👕</h2>
 
+<h2 align="center">DO NOT REUPLOAD WITHOUT MY CONSENT</h2>
+
 <p align="center">
   <a href="https://github.com/TayMcKenzieNZ/TaysBusinessPack"><img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License"></a>
   <a href="https://github.com/TayMcKenzieNZ/TaysBusinessPack"><img src="https://img.shields.io/github/stars/TayMcKenzieNZ/TaysBusinessPack.svg?style=social" alt="Star"></a>
