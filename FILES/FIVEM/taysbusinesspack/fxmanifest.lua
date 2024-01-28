@@ -1,4 +1,6 @@
--- Generated with DurtyClothTool
+-- Generated with DurtyClothTool --
+-- Created By TayMcKenzieNZ --
+-- Do Not Sell, Encrypt Or Lock Behind Some Bullshit Tebex Store --
 
 fx_version 'cerulean'
 game { 'gta5' }
