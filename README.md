@@ -1,6 +1,6 @@
 <h1 align="center">👕Tay's Business Pack 👕</h1>
 
-<h2 align="center">Lore friendly uniforms for AltV, FiveM &amp; Single Player 👕</h2>
+<h2 align="center">Lore friendly uniforms for AltV, FiveM, RageMP &amp; Single Player 👕</h2>
 
 <h2 align="center">DO NOT REUPLOAD WITHOUT MY CONSENT</h2>
 
