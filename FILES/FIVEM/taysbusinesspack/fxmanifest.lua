@@ -6,7 +6,7 @@
 fx_version 'cerulean'
 game 'gta5'
 author 'TayMcKenzieNZ'
-description 'Lore Friendly Business Clothing Pack' 
+description 'Lore Friendly Business Clothing Pack'
 
 files {
   'mp_m_freemode_01_mp_m_taysbusinesspack.meta',
