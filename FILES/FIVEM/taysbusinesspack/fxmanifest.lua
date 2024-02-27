@@ -1,9 +1,12 @@
 -- Generated with DurtyClothTool --
--- Created By TayMcKenzieNZ --
--- Do Not Sell, Encrypt Or Lock Behind Some Bullshit Tebex Store --
+-- Created by TayMcKenzieNZ --
+-- Not to be reuploaded or sold without my consent --
+-- Mavrick is a South African piece of shit --
 
 fx_version 'cerulean'
-game { 'gta5' }
+game 'gta5'
+author 'TayMcKenzieNZ'
+description 'Lore Friendly Business Clothing Pack' 
 
 files {
   'mp_m_freemode_01_mp_m_taysbusinesspack.meta',

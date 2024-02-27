@@ -122,6 +122,38 @@ SECURITY
 
 ---------------------------------------
 
+
+## MALE & FEMALE SHIRT 2, TUCKED IN VARIANTS #2:
+
+```
+Burger Shot Employee Red - Tucked In
+Burger Shot Manager Black - Tucked In
+Bean Machine - Tucked In
+UwU Cafe Employee Pink - Tucked In
+UwU Cafe Manager Black - Tucked In
+Chihuahua Hot Dogs - Tucked In
+Taco Bomb - Tucked In
+Horny's - Tucked In
+Lucky Plucker Employee Red - Tucked In
+Lucky Plucker Manager Black - Tucked In
+Up N Atom - Tucked In
+Pizza This - Tucked In
+The Taco Farmer - Tucked In
+24 / 7 - Tucked In
+LTD - Tucked In
+Downtown Taxi Co - Tucked In
+Smoke On The Water - Tucked In
+Yellow Jack Inn - Tucked In
+Vanilla Unicorn - Tucked In
+Los Santos Customs - Tucked In
+Benny's Original Motorwork - Tucked In
+Merryweather Security - Tucked In
+FLEECA Bank - Tucked In
+Gruppe 6 Security - Tucked In
+SECURITY - Tucked In
+
+```
+
 ## WORK SHIRT 2 Male And Female:
 ```
 A - Cluckin Bell
@@ -167,8 +199,10 @@ SECURITY
 
 ### WORK PANTS - Male And Female Variants:
 ```
-A - Black
-B - Yellow Cluckin Bell
+A - Black Work Pants
+B - Brown Work Pants
+C - Pink UwU Cafe Pants
+D - Yellow Cluckin  Bell
 ```
 
 ---------------------------------------
@@ -182,7 +216,8 @@ B - Yellow Cluckin Bell
 
 # License 📝
 
-This repository was created by TayMcKenzieNZ and is under the GPL V3 license.
+This repository was created by TayMcKenzieNZ and is under the GPL V3 license. It was created with the understanding that is open source and free of charge, 
+however this does not mean that scumbag South Africans called 'Mavrick' can outright steal and reupload to their Tebex store.
 
 -------------------
 
@@ -237,3 +272,9 @@ ensure taysbusinesspack
 
 IF THEY DO NOT APPEAR, YOU DO NOT HAVE THE REQUIRED PATREON SUBSCRIPTION TO STREAM CLOTHING.
 
+
+--------------------------------------
+
+## RageMP
+
+As I have never played RageMP, I do not personally know, however a dump file has been provided. Installation is at your own risk and knowledge.
